@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    font-family: Cursed Timer ULiL;
+   width:100%;
+    height:100%;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    border: solid white;
+    background: #1B244A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #EEEEEE;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 10px;
+    padding: 0px;
+      min-height: 100vh;
+      text-align: center;
+
+    
+}
+#sumH-el{
+    border-radius: 5px;
+    background: #080001;
+    text-align: center;
+   width: 200px;
+    height: 130px;
+    font-family: Cursed Timer ULiL;
+    color: #F94F6D;
+    font-size: 117px;
+     margin-right: 40px;
+    margin-left: 40px;
+    
+}
+#sumG-el{
+    border-radius: 5px;
+    background: #080001;
+    text-align: center;
+    width: 200px;
+    height: 130px;
+    font-family: Cursed Timer ULiL;
+    color: #F94F6D;
+    font-size: 117px;
+    margin-right: 40px;
+    margin-left: 40px;
+    
+}
+#btn-H{
+     padding-top: 26px;
+     font-family: Cursed Timer ULiL;
+    margin-right: 0px;
+    margin-left: 40px;
+    width: 200px;
+    text-align: center;
+    
+}
+#btn-G{
+     padding-top: 26px;
+     font-family: Cursed Timer ULiL;
+     margin-right: 60px;
+     margin-left: 40px;
+     width: 200px;
+      text-align: center;
+}
+#btn2H, #btn1H, #btn3H, #btn1G, #btn2G, #btn3G{
+     
+     font-family: Cursed Timer ULiL;
+     justify-content: space-around;
+     width: 45px;
+     height: 45px;
+     font-size: 18px;
+     background: #1B244A;
+     color: #EEEEEE;
+     border-color: #EEEEEE;
+     border-radius: 5px;
+    
+}
